@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2023-02-18 15:15:50 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2023-02-15 21:39:52 +0400"
@@ -89,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-02-18 15:14:22 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-02-16 21:48:51 +0400"
@@ -116,6 +128,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2023-02-14 20:57:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2023-02-18 14:30:07 +0400"
     },
     "done": true
   },
@@ -164,6 +182,12 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2023-02-14 21:30:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2023-02-18 14:30:07 +0400"
     },
     "done": true
   },
@@ -275,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2023-02-18 15:15:50 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2023-02-17 22:08:04 +0400"
@@ -317,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2023-02-18 14:30:07 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2023-02-14 21:05:49 +0400"
@@ -330,6 +366,7 @@
       "cooked_beef": "2023-02-17 21:46:56 +0400",
       "apple": "2023-02-17 22:17:51 +0400",
       "bread": "2023-02-14 21:57:51 +0400",
+      "golden_apple": "2023-02-18 15:18:56 +0400",
       "cooked_salmon": "2023-02-17 22:25:28 +0400",
       "carrot": "2023-02-15 21:47:36 +0400"
     },
@@ -338,6 +375,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2023-02-14 20:55:24 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2023-02-18 15:16:14 +0400"
     },
     "done": true
   },
@@ -443,6 +486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2023-02-18 14:30:07 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-02-16 21:48:51 +0400"
@@ -458,6 +507,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2023-02-14 20:56:46 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2023-02-18 15:15:50 +0400"
     },
     "done": true
   },
@@ -484,6 +539,12 @@
       "has_bed": "2023-02-14 21:00:19 +0400"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2023-02-18 14:03:55 +0400"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -515,6 +576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2023-02-18 14:30:07 +0400"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2023-02-14 21:17:59 +0400"
@@ -524,6 +591,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2023-02-17 22:02:32 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2023-02-18 15:15:50 +0400"
     },
     "done": true
   },
@@ -626,6 +699,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2023-02-14 21:14:22 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2023-02-18 14:30:07 +0400"
     },
     "done": true
   },
@@ -771,6 +850,7 @@
     "criteria": {
       "minecraft:pillager": "2023-02-14 22:02:10 +0400",
       "minecraft:skeleton": "2023-02-14 21:19:38 +0400",
+      "minecraft:hoglin": "2023-02-18 15:19:08 +0400",
       "minecraft:vindicator": "2023-02-15 21:53:42 +0400",
       "minecraft:spider": "2023-02-14 21:48:40 +0400",
       "minecraft:creeper": "2023-02-14 21:32:38 +0400",
@@ -783,6 +863,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2023-02-17 22:02:32 +0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-02-18 15:14:22 +0400"
     },
     "done": true
   },
@@ -807,6 +893,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2023-02-16 22:38:28 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2023-02-18 16:09:23 +0400"
     },
     "done": true
   },
@@ -849,6 +941,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2023-02-14 21:05:49 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2023-02-18 15:16:14 +0400"
     },
     "done": true
   },
@@ -942,6 +1040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2023-02-18 14:30:07 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2023-02-14 20:57:37 +0400"
@@ -987,6 +1091,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-02-16 21:52:11 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2023-02-18 14:30:07 +0400"
     },
     "done": true
   },
@@ -1038,6 +1148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2023-02-18 15:15:50 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2023-02-14 20:58:08 +0400"
@@ -1053,6 +1169,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2023-02-16 21:52:11 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2023-02-18 16:09:23 +0400"
     },
     "done": true
   },
@@ -1077,6 +1199,18 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2023-02-14 21:24:26 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2023-02-18 14:30:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2023-02-18 15:00:50 +0400"
     },
     "done": true
   },
@@ -1128,6 +1262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2023-02-18 14:30:07 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2023-02-14 21:05:49 +0400"
@@ -1137,6 +1277,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2023-02-14 21:14:18 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2023-02-18 14:30:07 +0400"
     },
     "done": true
   },
@@ -1314,6 +1460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2023-02-18 14:30:07 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2023-02-14 21:03:25 +0400"
@@ -1341,6 +1493,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2023-02-14 21:08:58 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2023-02-18 15:15:50 +0400"
     },
     "done": true
   },
@@ -1505,6 +1663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2023-02-18 15:15:50 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2023-02-14 20:57:01 +0400"
@@ -1547,6 +1711,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2023-02-18 14:03:55 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2023-02-14 21:30:07 +0400"
@@ -1556,6 +1726,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2023-02-14 21:27:53 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2023-02-18 14:30:07 +0400"
     },
     "done": true
   },
@@ -1577,6 +1753,12 @@
     },
     "done": false
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2023-02-18 15:14:22 +0400"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2023-02-14 21:30:07 +0400"
@@ -1592,6 +1774,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2023-02-16 22:38:28 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2023-02-18 15:00:50 +0400"
     },
     "done": true
   },
@@ -1685,5 +1873,5 @@
     },
     "done": true
   },
-  "DataVersion": 2584
+  "DataVersion": 2586
 }
