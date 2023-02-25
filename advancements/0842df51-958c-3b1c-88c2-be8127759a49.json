@@ -675,6 +675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2023-02-25 15:54:07 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2023-02-19 21:10:47 +0400"
@@ -1269,6 +1275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2023-02-25 15:54:07 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2023-02-14 21:05:49 +0400"
@@ -1416,6 +1428,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2023-02-18 15:14:22 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2023-02-25 16:02:12 +0400"
     },
     "done": true
   },
@@ -1624,6 +1642,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2023-02-18 21:19:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2023-02-25 15:54:07 +0400"
     },
     "done": true
   },
