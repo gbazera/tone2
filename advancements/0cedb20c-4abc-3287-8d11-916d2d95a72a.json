@@ -724,6 +724,7 @@
       "minecraft:magma_cube": "2023-03-11 22:31:44 +0400",
       "minecraft:spider": "2023-02-14 21:49:48 +0400",
       "minecraft:creeper": "2023-02-14 21:22:53 +0400",
+      "minecraft:wither": "2023-05-04 21:38:03 +0400",
       "minecraft:slime": "2023-03-09 00:08:33 +0400",
       "minecraft:evoker": "2023-03-12 19:42:14 +0400",
       "minecraft:phantom": "2023-03-10 12:51:01 +0400",
@@ -1087,6 +1088,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2023-03-09 00:08:40 +0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2023-05-04 21:43:17 +0400"
     },
     "done": true
   },
@@ -2138,6 +2145,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2023-05-04 21:35:50 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2023-02-19 21:22:59 +0400"
@@ -2473,6 +2486,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2023-02-14 21:05:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2023-05-04 21:39:29 +0400"
     },
     "done": true
   },
@@ -3427,6 +3446,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2023-02-15 21:49:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2023-05-04 21:22:01 +0400"
     },
     "done": true
   },
